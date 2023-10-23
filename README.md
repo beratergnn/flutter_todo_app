@@ -18,9 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Application Images
 
-![1](https://github.com/beratergnn/flutter_todo_app/assets/58957696/89aa049d-cc80-42b3-ae9b-020c492647c0)
-![2](https://github.com/beratergnn/flutter_todo_app/assets/58957696/65d30d60-417c-4124-a836-5176e6808174)
-![3](https://github.com/beratergnn/flutter_todo_app/assets/58957696/54c65aa2-c826-4cc7-80c5-58a7a3da9701)
-![4](https://github.com/beratergnn/flutter_todo_app/assets/58957696/6e4f5f7b-1309-4809-95e7-1ef8d1411fb9)
-![5](https://github.com/beratergnn/flutter_todo_app/assets/58957696/3572b120-8af7-43b8-adcc-fdf472989ae9)
-![6](https://github.com/beratergnn/flutter_todo_app/assets/58957696/7a4b3d37-1ff7-46a6-9e51-7cf43d6658b8)
+![1](https://github.com/beratergnn/flutter_todo_app/assets/58957696/c5ffdbdc-b210-44a9-bb8d-6b6271d5777c)
+![2](https://github.com/beratergnn/flutter_todo_app/assets/58957696/7c47e235-2a3f-46a5-839c-f6368e945b06)
+![4](https://github.com/beratergnn/flutter_todo_app/assets/58957696/b1818656-f8ca-4a60-8cec-4c8e1df85516)
+![3](https://github.com/beratergnn/flutter_todo_app/assets/58957696/538ecb48-745e-4ad0-81ef-046c723e3e9b)
+![6](https://github.com/beratergnn/flutter_todo_app/assets/58957696/1824a756-41e9-4943-8cd6-e31c52d177a7)
+![5](https://github.com/beratergnn/flutter_todo_app/assets/58957696/1d70725f-aff2-4a56-8168-a7b216cde9a7)
